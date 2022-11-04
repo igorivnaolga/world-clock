@@ -27,6 +27,7 @@ select {
   border-radius: 10px;
 }
 .city {
+  text-transform: capitalize;
   display: flex;
   margin: 10px 0;
   justify-content: space-between;
